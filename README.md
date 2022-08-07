@@ -1,4 +1,4 @@
-# Shopping-page
+# Shopping-page (WIP)
 
 Projeto da criação de uma página de uma loja.
 
